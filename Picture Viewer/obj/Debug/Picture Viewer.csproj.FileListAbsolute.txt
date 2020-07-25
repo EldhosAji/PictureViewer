@@ -1,0 +1,19 @@
+C:\Users\Admin\source\repos\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+C:\Users\Admin\source\repos\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+C:\Users\Admin\source\repos\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+C:\Users\Admin\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+C:\Users\Admin\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+C:\Users\Admin\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+C:\Users\Admin\source\repos\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
+C:\Users\ELDHOS AJI\Downloads\COMSCPBTechSummerTerm2873kProkPr__CA 2__on__Picture Viewer\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+C:\Users\ELDHOS AJI\Downloads\COMSCPBTechSummerTerm2873kProkPr__CA 2__on__Picture Viewer\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+C:\Users\ELDHOS AJI\Downloads\COMSCPBTechSummerTerm2873kProkPr__CA 2__on__Picture Viewer\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+C:\Users\ELDHOS AJI\Downloads\COMSCPBTechSummerTerm2873kProkPr__CA 2__on__Picture Viewer\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csprojAssemblyReference.cache
+C:\Users\ELDHOS AJI\Downloads\COMSCPBTechSummerTerm2873kProkPr__CA 2__on__Picture Viewer\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+C:\Users\ELDHOS AJI\Downloads\COMSCPBTechSummerTerm2873kProkPr__CA 2__on__Picture Viewer\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+C:\Users\ELDHOS AJI\Downloads\COMSCPBTechSummerTerm2873kProkPr__CA 2__on__Picture Viewer\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+C:\Users\ELDHOS AJI\Downloads\COMSCPBTechSummerTerm2873kProkPr__CA 2__on__Picture Viewer\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+C:\Users\ELDHOS AJI\Downloads\COMSCPBTechSummerTerm2873kProkPr__CA 2__on__Picture Viewer\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
